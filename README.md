@@ -23,7 +23,7 @@ $ python3 Bitchat.py
 - **last**: Once connected, you will be able to chat simultaneously on the same server.
 
 # Explanation
-| Server and Client |  |
+| Server and Client | ⚡ |
 |--------|--------|
 | **Server** | Server is where the first person will become an admin there with admin features |
 | **Client** | Client is a user who will join the server that was created by the first person |
