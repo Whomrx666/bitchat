@@ -11,9 +11,9 @@ $ apt update -y && apt upgrade -y
 $ pkg install git
 $ pkg install python -y
 $ git clone https://github.com/Whomrx666/Bitchat.git
-$ cd Bitchat
+$ cd bitchat
 $ python setup.py
-$ python3 Bitchat.py
+$ python3 bitchat.py
 ```
 
 ## Instructions
